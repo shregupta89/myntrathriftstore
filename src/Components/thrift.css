@@ -1,0 +1,15 @@
+/* src/components/Banner.css */
+.banner {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    gap:20px;
+}
+
+.banner-image {
+    width: 100%;
+    max-width: 1200px;
+}
